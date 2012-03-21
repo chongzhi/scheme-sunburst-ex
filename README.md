@@ -2,6 +2,10 @@
 
 sublime text 2的舒适配色方案 (基于sunburst修改)
 
+## 效果图
+
+![Soda Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-dark-theme.png?v=7)
+
 ## 安装
 
 提供两种方式安装
