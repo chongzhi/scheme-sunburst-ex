@@ -4,7 +4,7 @@ sublime text 2的舒适配色方案 (基于sunburst修改)
 
 ## 效果图
 
-![sunburst scheme](http://cloud.github.com/downloads/chongzhi/scheme-sunburst-ex/test.png)
+![sunburst scheme](http://www.ueder.net/wp-content/uploads/2012/03/test.png)
 
 ## 安装
 
