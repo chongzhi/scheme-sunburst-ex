@@ -4,7 +4,7 @@ sublime text 2的舒适配色方案 (基于sunburst修改)
 
 ## 效果图
 
-![sunburst scheme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-dark-theme.png?v=7)
+![sunburst scheme](http://cloud.github.com/downloads/chongzhi/scheme-sunburst-ex/test.png)
 
 ## 安装
 
@@ -22,12 +22,4 @@ sublime text 2的舒适配色方案 (基于sunburst修改)
 
 下载所有文件到你的sublime text2目录下的packages目录，即可在 `Preferences` > `Color Scheme`里选择
 
-> asdfasdf          
-asdf
-asdf
-asdf
-
->asdf
->asdf
->asdf
 
