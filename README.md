@@ -12,7 +12,7 @@ sublime text 2的舒适配色方案 (基于sunburst修改)
 
 ### package control 安装
 
-如果你安装了package control 可以通过 `package control : add repository` 添加github仓库至package control， 然后就可以通过 `package control : install package` 进行安装
+如果你安装了package control ([详情点这里](http://wbond.net/sublime_packages/package_control/installation)) 可以通过 `package control : add repository` 添加github仓库至package control， 然后就可以通过 `package control : install package` 进行安装
 
 ### git
 
