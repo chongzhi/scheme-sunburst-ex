@@ -8,7 +8,11 @@ sublime text 2的舒适配色方案 (基于sunburst修改)
 
 ## 安装
 
-提供两种方式安装
+提供三种方式安装
+
+### package control 安装
+
+如果你安装了package control 可以通过 `package control : add repository` 添加github仓库至package control， 然后就可以通过 `package control : install package` 进行安装
 
 ### git
 
@@ -21,5 +25,6 @@ sublime text 2的舒适配色方案 (基于sunburst修改)
 ### 直接下载安装
 
 下载所有文件到你的sublime text2目录下的packages目录，即可在 `Preferences` > `Color Scheme`里选择
+
 
 
