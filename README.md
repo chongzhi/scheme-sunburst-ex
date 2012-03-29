@@ -22,8 +22,6 @@ sublime text 2的舒适配色方案 (基于sunburst修改)
 
 然后就可以在 `Preferences` > `Color Scheme` 里选择本配色方案
 
-> We're living the future so
-> the present is our past.
 
 ### 直接下载安装
 
