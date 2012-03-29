@@ -21,6 +21,7 @@ sublime text 2的舒适配色方案 (基于sunburst修改)
     git clone https://chongzhi@github.com/chongzhi/scheme-sunburst-ex.git
 
 然后就可以在 `Preferences` > `Color Scheme` 里选择本配色方案
+
 >sdf
 > asd
 > asdfa
