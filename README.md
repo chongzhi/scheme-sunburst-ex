@@ -18,7 +18,7 @@ sublime text 2的舒适配色方案 (基于sunburst修改)
 
 如果你是git用户，直接sublime里 `Preferences` > `Browse Packages` 进入插件目录，执行以下git代码
 
-```git clone https://chongzhi@github.com/chongzhi/scheme-sunburst-ex.git```
+    git clone https://chongzhi@github.com/chongzhi/scheme-sunburst-ex.git```
 
 然后就可以在 `Preferences` > `Color Scheme` 里选择本配色方案
 
